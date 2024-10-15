@@ -1,0 +1,15 @@
+{
+    "filtername": "TeamSpeak3",
+    "whitelists": {
+        "ts3whitelist": {
+            "duration_seconds": 43200
+        },
+        "ts3oyunici": {
+            "duration_seconds": 86400
+        }
+    },
+    "traffic_limits": {
+        "pps": 50000
+    },
+    "block_udp_reflectors": true
+}

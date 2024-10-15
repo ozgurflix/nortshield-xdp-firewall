@@ -1,0 +1,15 @@
+{
+    "filtername": "RAGEMP",
+    "whitelists": {
+        "ragempwhitelist": {
+            "duration_seconds": 43200
+        },
+        "ragempoyunici": {
+            "duration_seconds": 86400
+        }
+    },
+    "traffic_limits": {
+        "pps": 50000
+    },
+    "block_udp_reflectors": true
+}
