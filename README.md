@@ -3,30 +3,7 @@ Note: Since I had difficulty finding an XDP-based game firewall on the internet,
 
 NortShield Game Firewall is a high-performance firewall application designed to protect game servers. This project uses Linux's eXtensible Data Path (XDP) technology to manage network traffic and protect against various attacks.
 
-## Project Structure
 
-nortshield-xdp-firewall/ 
-├── Makefile 
-├── xdp_firewall.c 
-├── user_space.c 
-├── manage_rules.c 
-├── manage_filters.c 
-├── traffic_logger.c 
-├── log_manager.c 
-├── include/ │ 
-├── common.h │ 
-├── rules.h │ 
-└── filters.h 
-├── filters/ │ 
-├── SAMP.json │ 
-├── RAGEMP.json │ 
-└── TeamSpeak3.json 
-├── data/ │ 
-├── rules.json │ 
-├── filters.json │ 
-├── sampwhitelist.json │ 
-├── sampoyunici.json │ 
-└── logs.json
 
 ## Features
 
