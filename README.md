@@ -5,7 +5,7 @@ NortShield Game Firewall is a high-performance firewall application designed to 
 
 ## Project Structure
 
-xdp-game-firewall/ 
+nortshield-xdp-firewall/ 
 ├── Makefile 
 ├── xdp_firewall.c 
 ├── user_space.c 
@@ -46,7 +46,7 @@ xdp-game-firewall/
 1. Clone the project:
 
    git clone https://github.com/ozgurflix/nortshield-xdp-firewall.git
-   cd nortshield-xdp
+   cd nortshield-xdp-firewall
 
 2. Install required libraries:
 
